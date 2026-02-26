@@ -5,3 +5,5 @@
 Установка:
  - npm i
  - npm run dev
+
+welcome - https://invite-craft-test-mode.vercel.app/
